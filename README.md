@@ -21,7 +21,7 @@ Ao longo desta jornada, utilizarei diversas ferramentas gratuitas e ambientes de
 
 Os exercícios práticos desenvolvidos durante as aulas estão organizados nas pastas abaixo:
 
-### 📁 [01-seguranca-iam](./01-seguranca-iam/)
+### 📁 * **[Documentação completa com prints e explicações](./01-seguranca-iam/Relatório Prático_ Configuração AWS IAM.pdf)**
 **Tema:** Segurança - Políticas IAM (Aula 01 a 03)
 *   Criação de usuários e grupos (Administradores e SomenteLeitura) no AWS IAM.
 *   Aplicação das políticas `AdministratorAccess` e `ReadOnlyAccess`.
